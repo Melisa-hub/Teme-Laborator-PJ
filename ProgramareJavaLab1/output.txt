@@ -1,0 +1,4 @@
+Suma celor 13 valori este: 488
+Minimul este: -343
+Maximul este: 565
+Media este: 37.53846
